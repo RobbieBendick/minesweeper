@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700016329 source:c:\users\robbi\desktop\web dev\minesweeper\src\main.cpp
+	<iostream>
+	"Window.h"
+
+1700016921 c:\users\robbi\desktop\web dev\minesweeper\src\window.h
+	<Windows.h>
+
+1700018992 source:c:\users\robbi\desktop\web dev\minesweeper\src\window.cpp
+	"Window.h"
+
